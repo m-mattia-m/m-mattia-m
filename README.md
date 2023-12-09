@@ -5,3 +5,4 @@ Hi 👋, my name is Mattia Müggler. I'm 20 years old and work as a software eng
 - [mattiamueggler.ch](https://mattiamueggler.ch)
 - [Curriculum Vitae (CV)](https://cv.mattiamueggler.ch)
 
+[![github-metrics](github-metrics.svg)](#)
