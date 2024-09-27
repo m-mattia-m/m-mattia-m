@@ -1,6 +1,6 @@
 # Mattia Müggler
 
-Hi 👋, my name is Mattia Müggler. I'm 20 years old and I work as a software engineer 👨‍💻 in Switzerland 🇨🇭. In my spare time I like to do some private coding projects. I mostly prefer developing backends with Go, but I am also able to develop backends with Kotlin and frontends with Angular and Nuxt.
+Hi 👋, my name is Mattia. I’m a software engineer based next to St. Gallen, Switzerland. My passion is technology, especially coding, and to learn new things about it. In my spare time I’m working on some projects, some of which are open source and can be visited in my GitHub. Check out my website for more information about me.
 
 - [mattiamueggler.ch](https://mattiamueggler.ch)
 - [Curriculum Vitae (CV)](https://cv.mattiamueggler.ch)
