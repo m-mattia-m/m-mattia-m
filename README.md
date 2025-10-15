@@ -11,6 +11,13 @@ Hi, my name is Mattia. I’m a software engineer based next to St. Gallen, Switz
 
 - [Notify](https://github.com/m-mattia-m/Notify)
 
+
+<!--
+# My stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=m-mattia-m&title_color=fff&text_color=fff&icon_color=ccc&bg_color=0c1117&hide_title=true&show_icons=true" />
+-->
+
 <!--
 <table align="center" style="border-collapse: collapse;">
   <tr>
