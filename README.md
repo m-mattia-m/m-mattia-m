@@ -10,6 +10,7 @@ Hi, my name is Mattia. I’m a software engineer based next to St. Gallen, Switz
 # Open source projects
 
 - [Notify](https://github.com/m-mattia-m/Notify)
+- [LinkShelf](https://github.com/m-mattia-m/LinkShelf)
 
 
 <!--
